@@ -9,6 +9,7 @@ class TestDeploy {
 	@Test
 	void test() {
 		fail("Teste");
+		fail("teste2");
 	}
 
 }
