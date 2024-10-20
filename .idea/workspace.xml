@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="03784efb-688e-40b4-b265-3776271eb5f4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/CustomerManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/CustomerManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/LoginManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/LoginManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/LogoutManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/LogoutManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/OriginCompleter.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/OriginCompleter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/SContextListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/SContextListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/admin/ChangeFeatures.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/admin/ChangeFeatures.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/admin/SetSeats.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/admin/SetSeats.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/customer/BookFlight.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/customer/BookFlight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/customer/ChooseFlight.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/customer/ChooseFlight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/customer/CurrentBooking.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/customer/CurrentBooking.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/customer/SearchFlights.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/customer/SearchFlights.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/filters/SecurityFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/filters/SecurityFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/filters/XSSFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/filters/XSSFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/filters/XSSRequestWrapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/filters/XSSRequestWrapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/manager/ApproveFeatures.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/manager/ApproveFeatures.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/manager/ApproveSeats.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/manager/ApproveSeats.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/manager/DisapproveFeatures.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/manager/DisapproveFeatures.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/manager/DisapproveSeats.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/manager/DisapproveSeats.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/models/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/models/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/models/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/models/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/models/FBS.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/models/FBS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/models/Features.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/models/Features.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/models/Flight.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/models/Flight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/models/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/models/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/models/Seat.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/models/Seat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/webservices/PriceAndSeats.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project/TurkishAirlines/build/web/WEB-INF/classes/webservices/PriceAndSeats.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2nUtpMrG4Rq8Hhez95wj4LZ8OKV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03784efb-688e-40b4-b265-3776271eb5f4" name="Changes" comment="" />
+      <created>1729039665924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729039665924</updated>
+    </task>
+    <servers />
+  </component>
+</project>
